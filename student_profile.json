@@ -1,0 +1,45 @@
+{
+    "students":[
+        {
+            "id":1,
+            "name":"aman",
+            "age":55,
+            "email":"aman@gamil.com",
+            "phone":"457348954",
+            "role":"45438"
+        },
+
+        {
+            "id":2,
+            "name":"aman1",
+            "age":52,
+            "email":"aman1@gamil.com",
+            "phone":"457348954",
+            "role":"45428"
+        },
+        {
+            "id":3,
+            "name":"akash",
+            "age":24,
+            "email":"akash@gamil.com",
+            "phone":"9636617223",
+            "role":"454"
+        },
+        {
+            "id":4,
+            "name":"rohit",
+            "age":25,
+            "email":"rohit@gamil.com",
+            "phone":"9636617345",
+            "role":"455"
+        },
+        {
+            "id":5,
+            "name":"vivek",
+            "age":20,
+            "email":"vivek@gamil.com",
+            "phone":"8896617223",
+            "role":"456"
+        }
+    ]
+}
